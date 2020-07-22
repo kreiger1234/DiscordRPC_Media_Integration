@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/discord-rpc-release-v3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/jaudiotagger-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/java-discord-rpc-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/jna-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/kuromoji-ipadic-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/kuromoji-core-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/jackson-annotations-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul Gupta/Downloads/Java Dependencies/RPC/mediainfo-java-api-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
